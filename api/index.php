@@ -12,15 +12,14 @@
   <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
 
   <!-- CSS -->
-  <link rel="stylesheet" href="api/assets/css/about.css">
-  <link rel="stylesheet" href="assets/css/navbar.css">
-  <link rel="stylesheet" href="assets/css/hero.css">
-  <link rel="stylesheet" href="assets/css/about.css">
-  <link rel="stylesheet" href="assets/css/impact.css">
-  <link rel="stylesheet" href="assets/css/umkm.css">
-  <link rel="stylesheet" href="assets/css/location.css">
-  <link rel="stylesheet" href="assets/css/faq.css">
-  <link rel="stylesheet" href="assets/css/footer.css">
+<link rel="stylesheet" href="/api/assets/css/navbar.css">
+<link rel="stylesheet" href="/api/assets/css/hero.css">
+<link rel="stylesheet" href="/api/assets/css/about.css">
+<link rel="stylesheet" href="/api/assets/css/impact.css">
+<link rel="stylesheet" href="/api/assets/css/umkm.css">
+<link rel="stylesheet" href="/api/assets/css/location.css">
+<link rel="stylesheet" href="/api/assets/css/faq.css">
+<link rel="stylesheet" href="/api/assets/css/footer.css">
 
 </head>
 
