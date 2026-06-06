@@ -1,0 +1,138 @@
+/* =========================
+   ABOUT
+========================= */
+
+.about-grid{
+  display:grid;
+  grid-template-columns:1fr 1fr;
+  gap:50px;
+  align-items:center;
+}
+
+.about-image img{
+  height:450px;
+  object-fit:cover;
+  border-radius:20px;
+}
+
+.about-text h3{
+  font-size:36px;
+  margin-bottom:25px;
+  font-weight: normal;
+}
+
+.about-text p{
+  color:#666;
+  line-height:1.9;
+  margin-bottom:20px;
+}
+
+/* Responsive - About */
+@media(max-width:768px){
+  .about-grid{
+    grid-template-columns:1fr;
+  }
+}
+
+.about-features {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 12px;
+  margin-top: 50px;
+}
+
+.about-feature-card {
+  background: #E6F5F0;
+  border: 0.8px solid #E1E1E1;
+  border-radius: 14px;
+  padding: 28px 24px;
+}
+
+.about-feature-icon {
+  width: 48px;
+  height: 48px;
+  background: #0d944b;
+  border-radius: 12px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-bottom: 18px;
+  color: #fff;
+}
+
+.about-feature-card h4 {
+  font-size: 17px;
+  font-weight: 700;
+  margin-bottom: 10px;
+  color: #222;
+}
+
+.about-feature-card p {
+  color: #666;
+  font-size: 14px;
+  line-height: 1.8;
+  margin-bottom: 0;
+}
+
+/* Partner Section */
+.partner-section {
+  margin-top: 80px;
+  width: 100%;
+  max-width: 100%;
+}
+
+.partner-section .section-title {
+  font-size: 36px;
+}
+
+.partner-track-wrapper {
+  overflow: hidden;
+  margin-top: 50px;
+  width: 100%;
+  -webkit-mask: linear-gradient(to right, transparent, black 10%, black 90%, transparent);
+  mask: linear-gradient(to right, transparent, black 10%, black 90%, transparent);
+}
+
+.partner-track {
+  display: flex;
+  gap: 20px;
+  animation: scroll-partner 20s linear infinite;
+  width: max-content;
+}
+
+.partner-track:hover {
+  animation-play-state: paused;
+}
+
+.partner-card {
+  background: #fff;
+  border: 1px solid #e5e5e5;
+  border-radius: 16px;
+  padding: 28px 32px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 14px;
+  min-width: 160px;
+  flex-shrink: 0;
+}
+
+.partner-icon {
+  width: 60px;
+  height: 60px;
+  background: #e8f7ef;
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.partner-card span {
+  font-size: 14px;
+  color: #444;
+}
+
+@keyframes scroll-partner {
+  0%   { transform: translateX(0); }
+  100% { transform: translateX(-50%); }
+}
