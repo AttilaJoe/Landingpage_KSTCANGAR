@@ -12,7 +12,7 @@
   <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
 
   <!-- CSS -->
-  <link rel="stylesheet" href="assets/css/global.css">
+  <link rel="stylesheet" href="api/assets/css/about.css">
   <link rel="stylesheet" href="assets/css/navbar.css">
   <link rel="stylesheet" href="assets/css/hero.css">
   <link rel="stylesheet" href="assets/css/about.css">
