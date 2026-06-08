@@ -55,7 +55,7 @@
         Tidak menemukan jawaban yang Anda cari?
       </p>
 
-      <a href="#" class="contact-button">
+      <a href="https://wa.me/6287851747730" class="contact-button" target="_blank" rel="noopener noreferrer">
         Hubungi Kami
       </a>
 
