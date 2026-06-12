@@ -24,7 +24,7 @@
           <span>Universitas Brawijaya</span>
         </div>
 
-        <iframe src="https://www.google.com/maps?q=Cangar+Batu&output=embed"></iframe>
+        <iframe src="https://www.google.com/maps?q=CW+Tlogomas&output=embed"></iframe>
 
       </div>
 
