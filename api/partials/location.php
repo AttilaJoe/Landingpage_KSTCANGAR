@@ -24,7 +24,7 @@
           <span>Universitas Brawijaya</span>
         </div>
 
-        <iframe src="https://www.google.com/maps?q=CW+Tlogomas&output=embed"></iframe>
+        <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d15813.76048695799!2d112.5355956574688!3d-7.743052441333165!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e78796640c56849%3A0x34153bef24d4f2b5!2sAgro%20Technopark%20Universitas%20Brawijaya%20Cangar!5e0!3m2!1sen!2sid!4v1780490874767!5m2!1sen!2sid"></iframe>
 
       </div>
 
